@@ -1,0 +1,7 @@
+{
+  "name": "data2",
+  "private": true,
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
